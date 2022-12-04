@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Kelvin Leong</h1>
+<h1 align="center">Hi 👋, I'm Kelvin Leong Zhin Sheng</h1>
 <h3 align="center">A passionate software developer from Malaysia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kelvinleong0529&label=Profile%20views&color=0e75b6&style=flat" alt="kelvinleong0529" /> </p>
 
-- 🌱 I’m currently learning **Next.js, Kurbenetes, RPC**
+- 🌱 I’m currently learning **Next.js, Kurbenetes, RPC, Architecture Development**
 
 - 💬 Ask me about **Python, Golang, Backend Development, Web Scraping, Automation**
 
