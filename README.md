@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kelvinleong0529&label=Profile%20views&color=0e75b6&style=flat" alt="kelvinleong0529" /> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js, Kurbenetes, RPC**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kelvinleong0529?tab=repositories](https://github.com/kelvinleong0529?tab=repositories)
-
-- 💬 Ask me about **Python, Golang, Backend Development**
+- 💬 Ask me about **Python, Golang, Backend Development, Web Scraping, Automation**
 
 - 📫 How to reach me **zhinsheng97@gmail.com**
 
