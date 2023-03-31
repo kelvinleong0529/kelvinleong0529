@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js, Kurbenetes, RPC, Architecture Development**
 
-- 💬 Ask me about **Python, Golang, Backend Development, Web Scraping, Automation**
+- 💬 Ask me about **Python, Golang, Backend Development, Concurrency Programming, Web Scraping, Automation**
 
 - 📫 How to reach me **zhinsheng97@gmail.com**
 
