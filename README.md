@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kelvinleong0529&label=Profile%20views&color=0e75b6&style=flat" alt="kelvinleong0529" /> </p>
 
-- 🌱 I’m currently learning **Next.js, Kurbenetes, RPC, Architecture Development, System Design**
+- 🌱 I’m currently learning **Solidity, Next.js, Kurbenetes, RPC, Architecture Development, System Design**
 
 - 💬 Ask me about **Golang, Python, Backend Development, Concurrency Programming, Web Scraping, Automation, Theoretical Modelling & Simulation**
 
